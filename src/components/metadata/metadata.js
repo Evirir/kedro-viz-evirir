@@ -172,7 +172,7 @@ const MetaData = ({
                   />
                 ) : (
                   <MetaDataRow
-                    label="Pretty node name:"
+                    label="Pretty node name 4124:"
                     value={metadata.prettyName}
                   />
                 )}
